@@ -1,4 +1,4 @@
-# 👋 Hi there I'm **Deev**
+# 👋 Hi there I'm, **Deev**
 A **3rd-year Computer Science student** passionate about solving and building impactful projects. I'm eager to expand my skills in **software development,
 data analysis, and machine learning,** while sharing and documenting my journey and creations with the open-source community.
 
